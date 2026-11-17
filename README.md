@@ -55,7 +55,7 @@ The investigation follows these steps:
 |---|---|
 | [Customer Scenario](customer-scenario.md) | Simulated customer issue and environment details |
 | [Storage Investigation Report](storage-investigation-report.md) | Capacity analysis and preliminary findings |
-| [PPAC Troubleshooting Steps](ppac-troubleshooting-steps.md) | Detailed navigation and investigation instructions |
+| [PPAC Troubleshooting Steps](troubleshooting-steps.md) | Detailed navigation and investigation instructions |
 | [Root Cause Analysis](root-cause-analysis.md) | Preliminary RCA, potential impact and corrective action plan |
 | [Troubleshooting Flowchart](troubleshooting-flowchart.md) | Visual investigation workflow |
 
